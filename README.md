@@ -1,6 +1,10 @@
 # BOTS_snake
 ### CIFO 2020/21 Project - Group: BOTS
 
+The main objective of this project is to solve an optimization problem using
+Genetic Algorithms (GA). In this project, using these search-based optimization algorithms, we taught
+a Neural Network model to play the snake game.
+
 #### Group Members
 Berfin Sakallioglu - 20200545 <br>
 Mehmet Serdar Çetiner - 20201016 <br>
