@@ -1,5 +1,5 @@
-# BOTS_snake
-### CIFO 2020/21 Project - Group: BOTS
+# Learning to play Snake
+### Computational Intelligence for Optimization Project
 
 The main objective of this project is to solve an optimization problem using
 Genetic Algorithms (GA). In this project, using these search-based optimization algorithms, we taught
